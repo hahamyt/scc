@@ -1,4 +1,4 @@
-## [Structured Click Control in Transformer-based Interactive Segmentation](https://arxiv.org/abs/2405.04009)
+# Structured Click Control in Transformer-based Interactive Segmentation
 [![arXiv](https://img.shields.io/badge/arXiv-2405.04009-b31b1b.svg)](https://arxiv.org/abs/2405.04009)
 
 I've added the missing files. If there are any issues with the code, please let me know.
