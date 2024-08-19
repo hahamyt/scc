@@ -1,16 +1,10 @@
 ## [Structured Click Control in Transformer-based Interactive Segmentation](https://arxiv.org/abs/2405.04009)
+[![arXiv](https://img.shields.io/badge/arXiv-2405.04009-b31b1b.svg)](https://arxiv.org/abs/2405.04009)
+
+I've added the missing files. If there are any issues with the code, please let me know.
 
 <p align="center">
   <img src="./assets/framework.png" alt="drawing", width="650"/>
-</p>
-
-<p align="center">
-    <a href="https://opensource.org/licenses/MIT">
-        <img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
-    </a>
-    <a href="https://arxiv.org/pdf/2405.04009.pdf">
-        <img src="https://img.shields.io/badge/arXiv-2405.04009-b31b1b"/>
-    </a>    
 </p>
 
 ## Motivation
