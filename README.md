@@ -25,6 +25,10 @@ Extensive experiments have demonstrated that the proposed algorithm can serve as
   <img src="./assets/motivation.png" alt="drawing", width="350"/>
 </p>
 
+## Submission Record
+
+[I will update the submission record here](SubmissionRecord.md)
+
 ## Environment
 Training and evaluation environment: Python3.8.8, PyTorch 1.11.0, Ubuntu 20.4, CUDA 11.0. Run the following command to install required packages.
 ```
