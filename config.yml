@@ -1,0 +1,51 @@
+INTERACTIVE_MODELS_PATH: ""
+EXPS_PATH: "/root/workspace/SCC/experiments"
+
+# Evaluation datasets
+GRABCUT_PATH: "/root/datasets/GrabCut"
+BERKELEY_PATH: "/root/datasets/Berkeley"
+DAVIS_PATH:  "/root/datasets/DAVIS"
+COCO_MVAL_PATH: "/root/datasets/COCO_MVal"
+PASCALVOC_PATH: "/root/datasets/VOCdevkit/VOC2012"
+DAVIS585_PATH: "/root/datasets/DAVIS585/data"
+DAVIS585_vis_PATH: "/root/datasets/DAVIS585_vis/data"
+LVIS_val_PATH: "/root/datasets/COCO_LVIS/val"
+
+
+# Train datasets
+SBD_PATH:  "/root/datasets/SBD_benchmark_RELEASE/dataset"
+COCO_PATH: "/home/xizhi.cx/data/dataset/COCO"
+LVIS_PATH: "/home/admin/workspace/project/data/datasets/COCO_LVIS"
+LVIS_v1_PATH: "/root/datasets/COCO_LVIS"
+ADE20K_PATH: "/root/datasets/ADE20K_2016_07_26/"
+
+THINOBJECT_PATH: "/root/datasets/ThinObject5K"
+MSRA10K_PATH: "/root/datasets/Saliency/MSRA10K_Imgs_GT/Imgs"
+DUT_TR_PATH: "/root/datasets/Saliency/DUTS-TR/DUTS-TR-Image"
+DUT_TE_PATH: "/root/datasets/Saliency/DUTS-TE/DUTS-TE-Image"
+YTBVOS_PATH: "/root/datasets/YTBVOS"
+HFLICKER_PATH: "/root/datasets/HFlickr"
+LOVEDA_PATH: "/root/datasets/[Archived_ZIP]/LoveDA"
+IS_LoveDA_PATH: "/root/db/b4aa7d51-83fc-4f29-8146-082224b14bf8/datasets/IS_LOVEDA"
+IS_RICE_PATH: "/root/datasets/IS_Rice"
+
+# You can download the weights for HRNet from the repository:
+# https://github.com/HRNet/HRNet-Image-Classification
+IMAGENET_PRETRAINED_MODELS:
+  HRNETV2_W18: "./weights/pretrained/hrnetv2_w18_imagenet_pretrained.pth"
+  HRNETV2_W32: "./weights/pretrained/hrnetv2_w32_imagenet_pretrained.pth"
+  HRNETV2_W40: "./weights/pretrained/hrnetv2_w40_imagenet_pretrained.pth"
+  HRNETV2_W48: "./weights/pretrained/hrnetv2_w48_imagenet_pretrained.pth"
+  HRNETV2_W64: "./weights/pretrained/hrnetv2_w64_imagenet_pretrained.pth"
+  MIT_B5: "./weights/pretrained/mit_b5_converted.pth"
+  MIT_B4: "./weights/pretrained/mit_b4_converted.pth"
+  MIT_B3: "./weights/pretrained/mit_b3_converted.pth"
+  MIT_B2: "./weights/pretrained/mit_b2_converted.pth"
+  MIT_B1: "./weights/pretrained/mit_b1_converted.pth"
+  MIT_B0: "./weights/pretrained/mit_b0_converted.pth"
+  HRF_BASE: "./weights/pretrained/hrt_base.pth"
+  SWIN_BASE: "./weights/pretrained/swin_base_patch4_window12_384_22k.pth"
+  SWIN_LARGE: "./weights/pretrained/swin_large_patch4_window12_384_22k.pth"
+  MAE_BASE: "./weights/mae_pretrain_vit_base.pth"
+  MAE_LARGE: "./weights/pretrained/mae_pretrain_vit_large.pth"
+  MAE_HUGE: "./weights/pretrained/mae_pretrain_vit_huge.pth"
