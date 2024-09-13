@@ -89,4 +89,4 @@ The code is released under the MIT License. It is a short, permissive software l
 }
 ```
 ## Acknowledgement
-Our project is developed based on [RITM](https://github.com/saic-vul/ritm_interactive_segmentation). Thanks for the nice demo GUI :)
+Our project is developed based on [PaddleSeg-EISeg](https://github.com/PaddlePaddle/PaddleSeg/tree/release/2.9.1/EISeg). Thanks for the nice demo GUI :)
